@@ -3,11 +3,11 @@ import CountDownTimer from './CountDownTimer';
 
 function App() {
 
-  const hoursMinSecs = {hours:1, minutes: 20, seconds: 40}
+  const daysHoursMinSecs = {days: 6, hours: 22, minutes: 45, seconds: 0}
   
   return (
     <div className="App">
-        <CountDownTimer hoursMinSecs={hoursMinSecs}/>
+        <CountDownTimer daysHoursMinSecs={daysHoursMinSecs}/>
     </div>
   );
 }
