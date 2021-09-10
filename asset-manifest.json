@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/long-distance-countdown/static/css/main.a617e044.chunk.css",
+    "main.js": "/long-distance-countdown/static/js/main.349ab142.chunk.js",
+    "main.js.map": "/long-distance-countdown/static/js/main.349ab142.chunk.js.map",
+    "runtime-main.js": "/long-distance-countdown/static/js/runtime-main.80154f4d.js",
+    "runtime-main.js.map": "/long-distance-countdown/static/js/runtime-main.80154f4d.js.map",
+    "static/js/2.4a9f19f7.chunk.js": "/long-distance-countdown/static/js/2.4a9f19f7.chunk.js",
+    "static/js/2.4a9f19f7.chunk.js.map": "/long-distance-countdown/static/js/2.4a9f19f7.chunk.js.map",
+    "static/js/3.dfc2139a.chunk.js": "/long-distance-countdown/static/js/3.dfc2139a.chunk.js",
+    "static/js/3.dfc2139a.chunk.js.map": "/long-distance-countdown/static/js/3.dfc2139a.chunk.js.map",
+    "index.html": "/long-distance-countdown/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/long-distance-countdown/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4a9f19f7.chunk.js.LICENSE.txt": "/long-distance-countdown/static/js/2.4a9f19f7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/long-distance-countdown/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80154f4d.js",
+    "static/js/2.4a9f19f7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.349ab142.chunk.js"
+  ]
+}
