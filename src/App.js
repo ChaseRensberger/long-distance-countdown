@@ -1,13 +1,12 @@
 import './App.css';
-import CountDownTimer from './CountDownTimer';
+import Countdown from 'react-countdown';
 
 function App() {
-
-  const daysHoursMinSecs = {days: 6, hours: 22, minutes: 45, seconds: 0}
   
   return (
     <div className="App">
-        <CountDownTimer daysHoursMinSecs={daysHoursMinSecs}/>
+         <Countdown date={new Date('2021-09-17T17:00:00')} />
+
     </div>
   );
 }
