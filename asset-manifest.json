@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/long-distance-countdown/static/css/main.a79122a5.chunk.css",
-    "main.js": "/long-distance-countdown/static/js/main.b5dc70ec.chunk.js",
-    "main.js.map": "/long-distance-countdown/static/js/main.b5dc70ec.chunk.js.map",
-    "runtime-main.js": "/long-distance-countdown/static/js/runtime-main.eac9c586.js",
-    "runtime-main.js.map": "/long-distance-countdown/static/js/runtime-main.eac9c586.js.map",
-    "static/js/2.4c574580.chunk.js": "/long-distance-countdown/static/js/2.4c574580.chunk.js",
-    "static/js/2.4c574580.chunk.js.map": "/long-distance-countdown/static/js/2.4c574580.chunk.js.map",
-    "static/js/3.b44a5159.chunk.js": "/long-distance-countdown/static/js/3.b44a5159.chunk.js",
-    "static/js/3.b44a5159.chunk.js.map": "/long-distance-countdown/static/js/3.b44a5159.chunk.js.map",
+    "main.css": "/long-distance-countdown/static/css/main.349fdf6f.chunk.css",
+    "main.js": "/long-distance-countdown/static/js/main.0ab819ed.chunk.js",
+    "main.js.map": "/long-distance-countdown/static/js/main.0ab819ed.chunk.js.map",
+    "runtime-main.js": "/long-distance-countdown/static/js/runtime-main.f7b1f2f5.js",
+    "runtime-main.js.map": "/long-distance-countdown/static/js/runtime-main.f7b1f2f5.js.map",
+    "static/js/2.ffbcf5ed.chunk.js": "/long-distance-countdown/static/js/2.ffbcf5ed.chunk.js",
+    "static/js/2.ffbcf5ed.chunk.js.map": "/long-distance-countdown/static/js/2.ffbcf5ed.chunk.js.map",
+    "static/js/3.8758268a.chunk.js": "/long-distance-countdown/static/js/3.8758268a.chunk.js",
+    "static/js/3.8758268a.chunk.js.map": "/long-distance-countdown/static/js/3.8758268a.chunk.js.map",
     "index.html": "/long-distance-countdown/index.html",
-    "static/css/main.a79122a5.chunk.css.map": "/long-distance-countdown/static/css/main.a79122a5.chunk.css.map",
-    "static/js/2.4c574580.chunk.js.LICENSE.txt": "/long-distance-countdown/static/js/2.4c574580.chunk.js.LICENSE.txt"
+    "static/css/main.349fdf6f.chunk.css.map": "/long-distance-countdown/static/css/main.349fdf6f.chunk.css.map",
+    "static/js/2.ffbcf5ed.chunk.js.LICENSE.txt": "/long-distance-countdown/static/js/2.ffbcf5ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eac9c586.js",
-    "static/js/2.4c574580.chunk.js",
-    "static/css/main.a79122a5.chunk.css",
-    "static/js/main.b5dc70ec.chunk.js"
+    "static/js/runtime-main.f7b1f2f5.js",
+    "static/js/2.ffbcf5ed.chunk.js",
+    "static/css/main.349fdf6f.chunk.css",
+    "static/js/main.0ab819ed.chunk.js"
   ]
 }
